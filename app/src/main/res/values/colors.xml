@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="bg_login">#19eebf</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="white">#ffffff</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+    <color name="purple_background">#928aff</color>
+    <color name="colorGray">#ffc3a0</color>
+    <color name="Login">#f9e6cf</color>
+    <color name="LoginButton">#0068a8</color>
+    <color name="colorRestOFApp">#f8f4ff</color>
+    <color name="colorRestOpp">#fafafa</color>
+    <color name="ButtonColor">#71d371</color>
+    <color name="ImpButtonColor">#ff4081</color>
+</resources>
